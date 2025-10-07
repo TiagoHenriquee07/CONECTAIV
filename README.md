@@ -36,7 +36,6 @@ O site foi desenvolvido com foco em uma experiência de usuário moderna, intera
 
 ```bash
 # Clone este repositório
-$ git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
-
 # Acesse a pasta do projeto
 $ cd seu-repositorio
+$ start index.html
